@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Schulbuch_Aufgabe_7_4.dir/main.cpp.o  -o Schulbuch_Aufgabe_7_4 
